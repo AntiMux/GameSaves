@@ -1,0 +1,9 @@
+{
+  "Player": {
+    "Max.plr": true
+  },
+  "World": {
+    "ExpertFirst.wld": false,
+    "NormalFirst.wld": true
+  }
+}
