@@ -1,0 +1,7 @@
+{
+	"clientside": {
+		"manualInventory": false,
+		"arpgMinimap": false,
+		"smartInventory": false
+	}
+}

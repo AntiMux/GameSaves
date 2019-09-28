@@ -1,0 +1,10 @@
+{
+  "Player": {
+    "Max.plr": false,
+    "Max2.plr": true
+  },
+  "World": {
+    "BlaBla.wld": false,
+    "NewJourney.wld": false
+  }
+}

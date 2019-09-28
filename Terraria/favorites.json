@@ -1,9 +1,30 @@
 {
   "Player": {
-    "Max.plr": true
+    "Max.plr": false,
+    "AntiMux.plr": false,
+    "AntiMux2.plr": false,
+    "AntiMux3.plr": true
   },
   "World": {
     "ExpertFirst.wld": false,
-    "NormalFirst.wld": true
+    "NormalFirst.wld": false,
+    "Crimson.wld": true,
+    "AntiMuxCorruption.wld": false,
+    "AntiMuxiland.wld": false,
+    "Small_Expert.wld": false,
+    "Crismon_Normal.wld": false,
+    "Curroption_Normal.wld": false,
+    "CorWorld.wld": false,
+    "crimson_small.wld": false,
+    "crim.wld": false,
+    "gfhj.wld": false,
+    "asdfsadfasdf.wld": false,
+    "jungle_hunt.wld": false,
+    "asdfasdfeqw.wld": false,
+    "crimson.wld": false,
+    "ExpertCurr.wld": false,
+    "NewWorld.wld": false,
+    "temp.wld": false,
+    "as.wld": false
   }
-};
+}
